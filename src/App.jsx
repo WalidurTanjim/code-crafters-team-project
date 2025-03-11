@@ -7,6 +7,7 @@ function App() {
     <>
       <Header />
       <h1>Code Crafters team project</h1>
+      <h1>Code Crafters team project from development branch</h1>
       <Footer />
     </>
   )
