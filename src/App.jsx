@@ -7,8 +7,7 @@ function App() {
     <>
       <Header />
       <h1>Code Crafters team project</h1>
-      <h2>hello from team member</h2>
-      <h4>good night 555555</h4>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, aspernatur?</p>
       <Footer />
     </>
   )
